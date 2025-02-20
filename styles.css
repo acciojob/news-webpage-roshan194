@@ -29,6 +29,7 @@ body {
     padding: 20px;
     width: 250px;
     border-radius: 10px;
+	text-align: center;
 }
 
 .latest-news-section h3, .pictorial-news-section h3 {
